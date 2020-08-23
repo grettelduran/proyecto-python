@@ -1,0 +1,50 @@
+[{
+	"cart_id": "101",
+	"email": "python_scorpion@registration.com",
+	"last_name": "scorpion",
+	"name": "python",
+	"password": "password03",
+	"username": "python_scorpion"
+}, {
+	"cart_id": "102",
+	"email": "josue37@registration.com",
+	"last_name": "perez",
+	"name": "josue",
+	"password": "333abcx",
+	"username": "josue37"
+}, {
+	"cart_id": "103",
+	"email": "developer_yeah@registration.com",
+	"last_name": "end",
+	"name": "front",
+	"password": "frontendRocks",
+	"username": "developer_yeah"
+}, {
+	"cart_id": "104",
+	"email": "test_user@registration.com",
+	"last_name": "user",
+	"name": "test",
+	"password": "my_pass",
+	"username": "test_user"
+}, {
+	"cart_id": "105",
+	"email": "test@registration.com",
+	"last_name": "josu",
+	"name": "jose",
+	"password": "registrationPass",
+	"username": "josu-001"
+}, {
+	"cart_id": "106",
+	"email": "testing123@email.com",
+	"last_name": "testing123",
+	"name": "testing123",
+	"password": "testing123",
+	"username": "testing123"
+}, {
+	"cart_id": "107",
+	"email": "testing1233@email.com",
+	"last_name": "testing123",
+	"name": "testing123",
+	"password": "testing123",
+	"username": "testing1234"
+}]
